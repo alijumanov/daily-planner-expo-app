@@ -1,0 +1,9 @@
+export const dark = '#0A2647';
+export const gold = '#FFBF00';
+export const light = '#FFFFFF';
+export const green = '#0F8582';
+export const dodger = '#277BC0';
+export const danger = '#FF3F64';
+export const glass = 'rgba(235, 235, 235, 0.17)';
+export const darkGlass = 'rgba(10, 38, 71, 0.67)';
+export const borderColor = 'rgba(255, 255, 255, 0.602)';
